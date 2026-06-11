@@ -62,16 +62,13 @@ st.markdown("""
         c6.1-9.3,16-11.8,16-21.2C32,3.8,28.2,0,23.6,0z"/>
     </svg>
     
-    <!-- Tulisan Utama -->
-    <div class="love-text">
-        I LOVE U SAYANGGG<br>♥️♥️♥️
-    </div>
+        I LOVE U SAYANGGG♥️♥️♥️
 </div>
 """, unsafe_allow_html=True)
 
 # 4. (Opsional) Menambahkan pesan romantis dari bawah
 st.markdown("""
 <div style='text-align: center; color: #c62828; margin-top: 60px;'>
-    <h4>Selalu di hatiku 💕</h4>
+    <h4>Dari Acu Culyaaa 💕</h4>
 </div>
 """, unsafe_allow_html=True)
